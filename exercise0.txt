@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 We are modifying the text on another branch.
 
 This is done on purpose, conflicts will arise.
+=======
+we are going wild
+>>>>>>> branch1
